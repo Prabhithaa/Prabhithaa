@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prabhithaa
-- 👀 Interested in AI,ML and Data Analytics.
-- 🌱 Currently learning AI,ML,Data Science and Web Development.
-- 💞️ Looking to collaborate on Artificial intelligence research and projects.
+- 👀 Aim to become a data scientist.
+- 🌱 Currently learning Power BI.
+- 💞️ I love math, programming, datascience and analytics.
 - 📫 Connect with me on Linkedin: https://www.linkedin.com/in/prabhitha-veeramachaneni-6380891ba/
 - 📧 Email me on: prabhithaveeramachaneni@gmail.com
 <!---
