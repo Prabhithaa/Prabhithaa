@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Prabhithaa
-- 👀 Aim to become a data scientist.
-- 🌱 Currently learning Power BI.
-- 💞️ I love math, programming, datascience and analytics.
 - 📫 Connect with me on Linkedin: https://www.linkedin.com/in/prabhitha-veeramachaneni-6380891ba/
 - 📧 Email me on: prabhithaveeramachaneni@gmail.com
 <!---
